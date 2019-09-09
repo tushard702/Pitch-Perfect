@@ -39,7 +39,6 @@ class PlaySoundsViewController: UIViewController {
     
     @IBAction func stopButtonPressed(_ sender: AnyObject) {
         stopAudio()
-        
     }
     
     override func viewDidLoad() {
